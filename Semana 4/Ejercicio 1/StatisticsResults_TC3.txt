@@ -1,0 +1,6 @@
+Media: 249.78
+Mediana: 249.00
+Moda: 94.00
+Desviación estándar: 145.32
+Varianza: 21117.28
+Tiempo de ejecución: 0.0201 segundos
