@@ -1,0 +1,16 @@
+
+Resultados para TC1:
+Total ventas: $2481.86
+Tiempo ejecución: 0.0009 s
+
+Resultados para TC2:
+Total ventas: $166568.23
+Tiempo ejecución: 0.0009 s
+
+Resultados para TC3:
+Total ventas: $165235.37
+Tiempo ejecución: 0.0009 s
+
+Errores encontrados:
+Producto desconocido: Elotes
+Producto desconocido: Frijoles
